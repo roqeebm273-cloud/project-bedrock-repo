@@ -1,0 +1,27 @@
+{
+  "carts_dynamodb_role_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:iam::912874556656:role/bedrock-carts-dynamodb-role"
+  },
+  "dev_view_access_key_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "AKIA5JC4QJTYJCB6S2LH"
+  },
+  "dev_view_console_password": {
+    "sensitive": true,
+    "type": "string",
+    "value": "XPXr5ww2j4QHlyQw71@t"
+  },
+  "dev_view_secret_access_key": {
+    "sensitive": true,
+    "type": "string",
+    "value": "yVu5i2K7Hd5/D4ZX1mNZzJIHMCy6sNjrrj3nK7TG"
+  },
+  "github_actions_role_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:iam::912874556656:role/bedrock-github-actions-role"
+  }
+}
