@@ -7,7 +7,7 @@
   "dev_view_access_key_id": {
     "sensitive": false,
     "type": "string",
-    "value": "AKIA5JC4QJTYJCB6S2LH"
+    "value": "AKIA5JC4QJTYAIGQU4P4"
   },
   "dev_view_console_password": {
     "sensitive": true,
@@ -17,7 +17,7 @@
   "dev_view_secret_access_key": {
     "sensitive": true,
     "type": "string",
-    "value": "yVu5i2K7Hd5/D4ZX1mNZzJIHMCy6sNjrrj3nK7TG"
+    "value": "om/PjyAK3eQoJmz/sIEolgX/+kXANJWCevjFsvGI"
   },
   "github_actions_role_arn": {
     "sensitive": false,
