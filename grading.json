@@ -1,4 +1,9 @@
 {
+  "alb_controller_role_arn": {
+    "sensitive": false,
+    "type": "string",
+    "value": "arn:aws:iam::912874556656:role/bedrock-alb-controller-role"
+  },
   "carts_dynamodb_role_arn": {
     "sensitive": false,
     "type": "string",
